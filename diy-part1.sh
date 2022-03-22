@@ -18,4 +18,4 @@ echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.defau
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 
 # Add a linkease source
-sed -i '$a src-git linkease https://github.com/linkease/istore' feeds.conf.default
+#sed -i '$a src-git linkease https://github.com/linkease/istore' feeds.conf.default
